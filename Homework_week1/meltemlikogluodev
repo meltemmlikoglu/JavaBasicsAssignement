@@ -1,0 +1,14 @@
+//girilen sayinin iki basamakli olup olmadigini bulan algoritma
+1-basla
+2-sayi giriniz
+3-sayi buyuktur 9 ise ve 100 den kucukse 
+4- yazdir sayi iki basamaklidir
+5-sayi kucuktur 9 ise veya 100 den buyukse
+6- yazdir sayi iki basamakli degildir
+7-bitir
+//javada kod yazma
+public class Main {
+    public static void main(String[] args) {
+        System.out.printf("merhaba bu benim javadaki ilk kodum");
+    }
+}
